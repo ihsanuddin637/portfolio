@@ -60,7 +60,7 @@ const Banner = () => {
         </div>
       </div>
       <div>
-        <img src="/public/photo_694385-removebg-preview.png" alt="" />
+        <img src="/assets/photo_694385-removebg-preview.png" alt="" />
       </div>
     </div>
   );

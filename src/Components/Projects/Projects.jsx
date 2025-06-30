@@ -5,7 +5,7 @@ const Projects = () => {
     <div>
       <div className="flex-col lg:flex items-center justify-between gap-5 my-16 border-2 p-4 rounded-lg">
         <div>
-          <img className="lg:max-w-[600px] h-96" src="/projects1.png" alt="" />
+          <img className="lg:max-w-[600px] h-96" src="/assets/projects1.png" alt="" />
         </div>
         <div>
           <h2>Hobby-Connect</h2>

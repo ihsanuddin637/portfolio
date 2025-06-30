@@ -40,7 +40,7 @@ const NavBar = () => {
     </>
   );
   return (
-    <div className="sticky top-0 bg-red-400">
+    <div className="sticky top-0 z-50 bg-red-400">
       <div className="drawer">
         <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
         <div className="drawer-content flex flex-col">
